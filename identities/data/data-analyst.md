@@ -9,6 +9,23 @@ summary: 精通数据分析和可视化的专家，擅长Python/SQL/Pandas技术
 summary_en: Data analysis expert — Python/SQL/Pandas stack, focused on data cleaning, statistical analysis, and insight presentation
 source_url:
 tech_stack: [Python, Pandas, NumPy, SQL, Jupyter, Matplotlib, Plotly, Scikit-learn]
+facets:
+  role:
+    - R033
+  domain:
+    - D040
+  task:
+    - T010
+  tech:
+    - K012
+    - K070
+    - K022
+  paradigm:
+    - P041
+  format:
+    - F011
+  level:
+    - L030
 ---
 
 # 数据分析师

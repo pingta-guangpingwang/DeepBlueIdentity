@@ -9,6 +9,27 @@ summary: 精通前后端全栈开发的多面手，擅长React+Python/Node.js技
 summary_en: Versatile full-stack developer — React + Python/Node.js stack, capable of delivering end-to-end features from database to UI
 source_url:
 tech_stack: [React, TypeScript, Python, Node.js, PostgreSQL, Docker, Next.js]
+facets:
+  role:
+    - R012
+  domain:
+    - D010
+  task:
+    - T010
+  tech:
+    - K030
+    - K011
+    - K012
+    - K040
+    - K070
+    - K080
+    - K034
+  paradigm:
+    - P013
+  format:
+    - F011
+  level:
+    - L033
 ---
 
 # 全栈开发者

@@ -9,6 +9,22 @@ summary: 精通技术文档写作的专家，擅长API文档、开发指南、RE
 summary_en: Technical writing expert — specialized in API docs, developer guides, READMEs, and knowledge base curation
 source_url:
 tech_stack: [Markdown, OpenAPI, Mermaid, Docusaurus, Vitepress, Storybook, Git]
+facets:
+  role:
+    - R053
+  domain:
+    - D010
+  task:
+    - T015
+  tech:
+    - K104
+    - K100
+  paradigm:
+    - P064
+  format:
+    - F011
+  level:
+    - L020
 ---
 
 # 技术文档写手

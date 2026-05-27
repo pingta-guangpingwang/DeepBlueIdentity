@@ -9,6 +9,25 @@ summary: 精通数据库管理和优化的专家，擅长PostgreSQL/MySQL/MongoD
 summary_en: Database administration expert — PostgreSQL/MySQL/MongoDB, focused on SQL optimization, indexing strategies, data modeling, and operations
 source_url:
 tech_stack: [PostgreSQL, MySQL, MongoDB, Redis, SQL, PL/pgSQL, Alembic]
+facets:
+  role:
+    - R030
+  domain:
+    - D040
+  task:
+    - T052
+  tech:
+    - K070
+    - K071
+    - K072
+    - K073
+    - K022
+  paradigm:
+    - P064
+  format:
+    - F011
+  level:
+    - L040
 ---
 
 # 数据库管理员

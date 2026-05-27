@@ -9,6 +9,28 @@ summary: 精通Python后端开发的资深工程师身份，擅长FastAPI/Django
 summary_en: Senior backend engineer specialized in Python — FastAPI/Django/Flask stack, focused on high-performance APIs, microservices, and database design
 source_url:
 tech_stack: [Python, FastAPI, Django, Flask, PostgreSQL, Redis, Docker]
+facets:
+  role:
+    - R011
+  domain:
+    - D010
+  task:
+    - T010
+  tech:
+    - K012
+    - K044
+    - K045
+    - K046
+    - K070
+    - K073
+    - K080
+  paradigm:
+    - P013
+    - P030
+  format:
+    - F011
+  level:
+    - L040
 ---
 
 # 资深Python后端工程师

@@ -9,6 +9,25 @@ summary: 精通React生态的前端专家，擅长TypeScript/Next.js/Tailwind技
 summary_en: React frontend expert — TypeScript/Next.js/Tailwind stack, focused on component architecture, state management, and UX optimization
 source_url:
 tech_stack: [React, TypeScript, Next.js, Tailwind CSS, Zustand, React Query, Vitest]
+facets:
+  role:
+    - R010
+  domain:
+    - D010
+  task:
+    - T010
+  tech:
+    - K030
+    - K011
+    - K034
+    - K031
+  paradigm:
+    - P011
+    - P043
+  format:
+    - F011
+  level:
+    - L033
 ---
 
 # React前端专家
