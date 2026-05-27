@@ -10,23 +10,21 @@ summary_en: DevOps/SRE expert — Docker/K8s/CI/CD stack, focused on infrastruct
 source_url:
 tech_stack: [Docker, Kubernetes, Terraform, GitHub Actions, Prometheus, Grafana, Nginx, Linux]
 facets:
-  role:
-    - R020
-  domain:
-    - D060
-  task:
-    - T010
-  tech:
-    - K080
-    - K081
-    - K101
-    - K087
-  paradigm:
-    - P013
+  occupation:
+    - O251
+  skill:
+    - S56
+    - S122
+    - S57
+  knowledge:
+    - K01
+  transversal:
+    - T13
+    - T12
   format:
-    - F011
+    - F05
   level:
-    - L040
+    - L04
 ---
 
 # DevOps/SRE工程师

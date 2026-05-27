@@ -10,22 +10,21 @@ summary_en: Data analysis expert — Python/SQL/Pandas stack, focused on data cl
 source_url:
 tech_stack: [Python, Pandas, NumPy, SQL, Jupyter, Matplotlib, Plotly, Scikit-learn]
 facets:
-  role:
-    - R033
-  domain:
-    - D040
-  task:
-    - T010
-  tech:
-    - K012
-    - K070
-    - K022
-  paradigm:
-    - P041
+  occupation:
+    - O212
+    - O251
+  skill:
+    - S53
+    - S114
+  knowledge:
+    - K01
+    - K12
+  transversal:
+    - T12
   format:
-    - F011
+    - F05
   level:
-    - L030
+    - L03
 ---
 
 # 数据分析师

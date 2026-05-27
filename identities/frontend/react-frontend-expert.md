@@ -10,24 +10,22 @@ summary_en: React frontend expert — TypeScript/Next.js/Tailwind stack, focused
 source_url:
 tech_stack: [React, TypeScript, Next.js, Tailwind CSS, Zustand, React Query, Vitest]
 facets:
-  role:
-    - R010
-  domain:
-    - D010
-  task:
-    - T010
-  tech:
-    - K030
-    - K011
-    - K034
-    - K031
-  paradigm:
-    - P011
-    - P043
+  occupation:
+    - O251
+  skill:
+    - S52
+    - S54
+    - S91
+  knowledge:
+    - K01
+    - K10
+  transversal:
+    - T14
+    - T41
   format:
-    - F011
+    - F05
   level:
-    - L033
+    - L03
 ---
 
 # React前端专家

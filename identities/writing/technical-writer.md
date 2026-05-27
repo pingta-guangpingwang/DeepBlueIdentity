@@ -10,21 +10,21 @@ summary_en: Technical writing expert — specialized in API docs, developer guid
 source_url:
 tech_stack: [Markdown, OpenAPI, Mermaid, Docusaurus, Vitepress, Storybook, Git]
 facets:
-  role:
-    - R053
-  domain:
-    - D010
-  task:
-    - T015
-  tech:
-    - K104
-    - K100
-  paradigm:
-    - P064
+  occupation:
+    - O264
+  skill:
+    - S93
+    - S102
+    - S112
+  knowledge:
+    - K09
+  transversal:
+    - T31
+    - T41
   format:
-    - F011
+    - F05
   level:
-    - L020
+    - L02
 ---
 
 # 技术文档写手

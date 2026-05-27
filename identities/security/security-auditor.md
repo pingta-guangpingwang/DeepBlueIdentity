@@ -10,23 +10,20 @@ summary_en: Application security expert — focused on code security auditing, v
 source_url:
 tech_stack: [Python, JavaScript, SQL, Docker, OWASP, Burp Suite]
 facets:
-  role:
-    - R022
-  domain:
-    - D010
-  task:
-    - T081
-  tech:
-    - K012
-    - K010
-    - K022
-    - K080
-  paradigm:
-    - P064
+  occupation:
+    - O251
+  skill:
+    - S57
+    - S126
+  knowledge:
+    - K01
+  transversal:
+    - T41
+    - T12
   format:
-    - F011
+    - F05
   level:
-    - L040
+    - L04
 ---
 
 # 安全审计专家

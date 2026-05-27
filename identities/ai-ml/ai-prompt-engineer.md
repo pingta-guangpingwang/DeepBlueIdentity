@@ -10,23 +10,21 @@ summary_en: AI prompt engineering expert — specialized in designing high-quali
 source_url:
 tech_stack: [Claude, GPT, LangChain, Python, Markdown, YAML]
 facets:
-  role:
-    - R032
-  domain:
-    - D031
-  task:
-    - T010
-  tech:
-    - K012
-    - K096
-    - K097
-  paradigm:
-    - P081
-    - P082
+  occupation:
+    - O251
+  skill:
+    - S55
+    - S93
+    - S52
+  knowledge:
+    - K01
+  transversal:
+    - T14
+    - T24
   format:
-    - F011
+    - F05
   level:
-    - L033
+    - L03
 ---
 
 # AI提示词工程师

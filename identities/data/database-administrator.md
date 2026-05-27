@@ -10,24 +10,20 @@ summary_en: Database administration expert — PostgreSQL/MySQL/MongoDB, focused
 source_url:
 tech_stack: [PostgreSQL, MySQL, MongoDB, Redis, SQL, PL/pgSQL, Alembic]
 facets:
-  role:
-    - R030
-  domain:
-    - D040
-  task:
-    - T052
-  tech:
-    - K070
-    - K071
-    - K072
-    - K073
-    - K022
-  paradigm:
-    - P064
+  occupation:
+    - O252
+  skill:
+    - S53
+    - S56
+  knowledge:
+    - K01
+  transversal:
+    - T13
+    - T41
   format:
-    - F011
+    - F05
   level:
-    - L040
+    - L04
 ---
 
 # 数据库管理员

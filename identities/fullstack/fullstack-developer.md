@@ -10,26 +10,22 @@ summary_en: Versatile full-stack developer — React + Python/Node.js stack, cap
 source_url:
 tech_stack: [React, TypeScript, Python, Node.js, PostgreSQL, Docker, Next.js]
 facets:
-  role:
-    - R012
-  domain:
-    - D010
-  task:
-    - T010
-  tech:
-    - K030
-    - K011
-    - K012
-    - K040
-    - K070
-    - K080
-    - K034
-  paradigm:
-    - P013
+  occupation:
+    - O251
+  skill:
+    - S52
+    - S53
+    - S56
+    - S54
+  knowledge:
+    - K01
+  transversal:
+    - T12
+    - T21
   format:
-    - F011
+    - F05
   level:
-    - L033
+    - L03
 ---
 
 # 全栈开发者

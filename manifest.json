@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T12:52:54.759Z",
+  "updated": "2026-05-27T14:02:22.815Z",
   "total": 9,
   "items": [
     {
@@ -35,33 +35,26 @@
       "summary_en": "Senior backend engineer specialized in Python — FastAPI/Django/Flask stack, focused on high-performance APIs, microservices, and database design",
       "file": "identities/backend/senior-python-backend.md",
       "facets": {
-        "role": [
-          "R011"
+        "occupation": [
+          "O251"
         ],
-        "domain": [
-          "D010"
+        "skill": [
+          "S52",
+          "S56",
+          "S53"
         ],
-        "task": [
-          "T010"
+        "knowledge": [
+          "K01"
         ],
-        "tech": [
-          "K012",
-          "K044",
-          "K045",
-          "K046",
-          "K070",
-          "K073",
-          "K080"
-        ],
-        "paradigm": [
-          "P013",
-          "P030"
+        "transversal": [
+          "T12",
+          "T21"
         ],
         "format": [
-          "F011"
+          "F05"
         ],
         "level": [
-          "L040"
+          "L04"
         ]
       }
     },
@@ -98,30 +91,27 @@
       "summary_en": "React frontend expert — TypeScript/Next.js/Tailwind stack, focused on component architecture, state management, and UX optimization",
       "file": "identities/frontend/react-frontend-expert.md",
       "facets": {
-        "role": [
-          "R010"
+        "occupation": [
+          "O251"
         ],
-        "domain": [
-          "D010"
+        "skill": [
+          "S52",
+          "S54",
+          "S91"
         ],
-        "task": [
-          "T010"
+        "knowledge": [
+          "K01",
+          "K10"
         ],
-        "tech": [
-          "K030",
-          "K011",
-          "K034",
-          "K031"
-        ],
-        "paradigm": [
-          "P011",
-          "P043"
+        "transversal": [
+          "T14",
+          "T41"
         ],
         "format": [
-          "F011"
+          "F05"
         ],
         "level": [
-          "L033"
+          "L03"
         ]
       }
     },
@@ -158,32 +148,27 @@
       "summary_en": "Versatile full-stack developer — React + Python/Node.js stack, capable of delivering end-to-end features from database to UI",
       "file": "identities/fullstack/fullstack-developer.md",
       "facets": {
-        "role": [
-          "R012"
+        "occupation": [
+          "O251"
         ],
-        "domain": [
-          "D010"
+        "skill": [
+          "S52",
+          "S53",
+          "S56",
+          "S54"
         ],
-        "task": [
-          "T010"
+        "knowledge": [
+          "K01"
         ],
-        "tech": [
-          "K030",
-          "K011",
-          "K012",
-          "K040",
-          "K070",
-          "K080",
-          "K034"
-        ],
-        "paradigm": [
-          "P013"
+        "transversal": [
+          "T12",
+          "T21"
         ],
         "format": [
-          "F011"
+          "F05"
         ],
         "level": [
-          "L033"
+          "L03"
         ]
       }
     },
@@ -221,28 +206,26 @@
       "summary_en": "Data analysis expert — Python/SQL/Pandas stack, focused on data cleaning, statistical analysis, and insight presentation",
       "file": "identities/data/data-analyst.md",
       "facets": {
-        "role": [
-          "R033"
+        "occupation": [
+          "O212",
+          "O251"
         ],
-        "domain": [
-          "D040"
+        "skill": [
+          "S53",
+          "S114"
         ],
-        "task": [
-          "T010"
+        "knowledge": [
+          "K01",
+          "K12"
         ],
-        "tech": [
-          "K012",
-          "K070",
-          "K022"
-        ],
-        "paradigm": [
-          "P041"
+        "transversal": [
+          "T12"
         ],
         "format": [
-          "F011"
+          "F05"
         ],
         "level": [
-          "L030"
+          "L03"
         ]
       }
     },
@@ -280,29 +263,26 @@
       "summary_en": "DevOps/SRE expert — Docker/K8s/CI/CD stack, focused on infrastructure automation, monitoring, and system reliability",
       "file": "identities/devops/devops-engineer.md",
       "facets": {
-        "role": [
-          "R020"
+        "occupation": [
+          "O251"
         ],
-        "domain": [
-          "D060"
+        "skill": [
+          "S56",
+          "S122",
+          "S57"
         ],
-        "task": [
-          "T010"
+        "knowledge": [
+          "K01"
         ],
-        "tech": [
-          "K080",
-          "K081",
-          "K101",
-          "K087"
-        ],
-        "paradigm": [
-          "P013"
+        "transversal": [
+          "T13",
+          "T12"
         ],
         "format": [
-          "F011"
+          "F05"
         ],
         "level": [
-          "L040"
+          "L04"
         ]
       }
     },
@@ -337,29 +317,25 @@
       "summary_en": "Application security expert — focused on code security auditing, vulnerability discovery, security architecture, and compliance",
       "file": "identities/security/security-auditor.md",
       "facets": {
-        "role": [
-          "R022"
+        "occupation": [
+          "O251"
         ],
-        "domain": [
-          "D010"
+        "skill": [
+          "S57",
+          "S126"
         ],
-        "task": [
-          "T081"
+        "knowledge": [
+          "K01"
         ],
-        "tech": [
-          "K012",
-          "K010",
-          "K022",
-          "K080"
-        ],
-        "paradigm": [
-          "P064"
+        "transversal": [
+          "T41",
+          "T12"
         ],
         "format": [
-          "F011"
+          "F05"
         ],
         "level": [
-          "L040"
+          "L04"
         ]
       }
     },
@@ -396,27 +372,26 @@
       "summary_en": "Technical writing expert — specialized in API docs, developer guides, READMEs, and knowledge base curation",
       "file": "identities/writing/technical-writer.md",
       "facets": {
-        "role": [
-          "R053"
+        "occupation": [
+          "O264"
         ],
-        "domain": [
-          "D010"
+        "skill": [
+          "S93",
+          "S102",
+          "S112"
         ],
-        "task": [
-          "T015"
+        "knowledge": [
+          "K09"
         ],
-        "tech": [
-          "K104",
-          "K100"
-        ],
-        "paradigm": [
-          "P064"
+        "transversal": [
+          "T31",
+          "T41"
         ],
         "format": [
-          "F011"
+          "F05"
         ],
         "level": [
-          "L020"
+          "L02"
         ]
       }
     },
@@ -453,30 +428,25 @@
       "summary_en": "Database administration expert — PostgreSQL/MySQL/MongoDB, focused on SQL optimization, indexing strategies, data modeling, and operations",
       "file": "identities/data/database-administrator.md",
       "facets": {
-        "role": [
-          "R030"
+        "occupation": [
+          "O252"
         ],
-        "domain": [
-          "D040"
+        "skill": [
+          "S53",
+          "S56"
         ],
-        "task": [
-          "T052"
+        "knowledge": [
+          "K01"
         ],
-        "tech": [
-          "K070",
-          "K071",
-          "K072",
-          "K073",
-          "K022"
-        ],
-        "paradigm": [
-          "P064"
+        "transversal": [
+          "T13",
+          "T41"
         ],
         "format": [
-          "F011"
+          "F05"
         ],
         "level": [
-          "L040"
+          "L04"
         ]
       }
     },
@@ -512,29 +482,26 @@
       "summary_en": "AI prompt engineering expert — specialized in designing high-quality prompts, few-shot examples, and chain-of-thought strategies for LLMs",
       "file": "identities/ai-ml/ai-prompt-engineer.md",
       "facets": {
-        "role": [
-          "R032"
+        "occupation": [
+          "O251"
         ],
-        "domain": [
-          "D031"
+        "skill": [
+          "S55",
+          "S93",
+          "S52"
         ],
-        "task": [
-          "T010"
+        "knowledge": [
+          "K01"
         ],
-        "tech": [
-          "K012",
-          "K096",
-          "K097"
-        ],
-        "paradigm": [
-          "P081",
-          "P082"
+        "transversal": [
+          "T14",
+          "T24"
         ],
         "format": [
-          "F011"
+          "F05"
         ],
         "level": [
-          "L033"
+          "L03"
         ]
       }
     }
